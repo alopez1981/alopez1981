@@ -25,6 +25,9 @@ Me he formado en metodologías limpias en Codely y de forma autodidacta, como pu
   <img src="https://img.shields.io/badge/Google%20Workspace-Admin-4285F4" />
   <img src="https://img.shields.io/badge/Security-Policies%20%26%20Incident%20Response-111111" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,html,css,redis,mysql,docker,cloudflare,sqlite,git,github" />
+</p>
 
 
 ---
