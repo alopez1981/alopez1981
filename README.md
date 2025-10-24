@@ -26,7 +26,7 @@ Me he formado en metodologías limpias en Codely y de forma autodidacta, como pu
 | Proyecto | Descripción | Stack |
 |-----------|--------------|--------|
 | [API Currencies](https://github.com/alopez1981/api-currencies) | API con DDD, CQRS y eventos en Laravel | Laravel, MySQL |
-| [Portafolio Vue]([https://alopez1981.github.io/](https://alopez1981.github.io/)) | Sitio personal con Vue 3 + TailwindCSS | Vue, Tailwind |
+| [Portafolio Vue](https://alopez1981.github.io/) | Sitio personal con Vue 3 + TailwindCSS | Vue, Tailwind |
 | [Docker Base](https://github.com/alopez1981/docker) | Entorno Docker Laravel+MySQL+Nginx | Docker, PHP-FPM |
 
 ---
