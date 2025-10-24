@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&center=true&vCenter=true&width=800&lines=Backend+Laravel+%7C+DDD+%7C+CQRS+%7C+Hexagonal;Vue+3+Learner;Seguridad+Inform%C3%A1tica+y+Automatizaci%C3%B3n" />
+</p>
+
 # 👋 Hola, soy Albert Lopez  
 **Backend Developer | Laravel · DDD · CQRS · Docker · Vue**
 
