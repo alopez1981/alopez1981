@@ -19,10 +19,13 @@ Me he formado en metodologías limpias en Codely y de forma autodidacta, como pu
 ---
 
 ### 🚀 Stack actual
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-DDD%20%7C%20CQRS%20%7C%20Hex-FF2D20" />
+  <img src="https://img.shields.io/badge/Vue-3-41B883" />
+  <img src="https://img.shields.io/badge/Google%20Workspace-Admin-4285F4" />
+  <img src="https://img.shields.io/badge/Security-Policies%20%26%20Incident%20Response-111111" />
+</p>
+
 
 ---
 
