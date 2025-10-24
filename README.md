@@ -2,11 +2,13 @@
 **Backend Developer | Laravel · DDD · CQRS · Docker · Vue**
 
 Backend developer en Hoy-Voy, donde combino desarrollo, seguridad y soporte técnico.
--Trabajo con Laravel (DDD, CQRS, arquitectura hexágonal) y VUE 3.
--Gestiono Google Workspace, roles y usuarios.
--Desarrollo consultas SQL y soluciones internas.
--Responsable de las políticas de seguridad informática y detección de fugas.
--Administro dominios y DNS.
+
+- Trabajo con Laravel (DDD, CQRS, arquitectura hexágonal) y VUE 3.
+- Gestiono Google Workspace, roles y usuarios.
+- Desarrollo consultas SQL y soluciones internas.
+- Responsable de las políticas de seguridad informática y detección de fugas.
+- Administro dominios y DNS.
+  
 Titulado en Administración de Sistemas Informáticos en Red (especializado en ciberseguridad).
 Me he formado en metodologías limpias en Codely y de forma autodidacta, como puede verse en mis proyectos de GitHub.
 
