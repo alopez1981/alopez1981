@@ -49,3 +49,9 @@ Me he formado en metodologías limpias en Codely y de forma autodidacta, como pu
 📫 **Contáctame:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Albert_Lopez-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/alopez1981)  
 [![Email](https://img.shields.io/badge/albertlopezsimon@gmail.com-grey?style=flat-square&logo=gmail)](mailto:albertlopezsimon@gmail.com)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME" />
+</p>
+
