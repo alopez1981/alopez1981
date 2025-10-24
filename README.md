@@ -38,6 +38,8 @@ Me he formado en metodologías limpias en Codely y de forma autodidacta, como pu
 | [API Currencies](https://github.com/alopez1981/api-currencies) | API con DDD, CQRS y eventos en Laravel | Laravel, MySQL |
 | [Portafolio Vue](https://alopez1981.github.io/projects) | Sitio personal con Vue 3 + TailwindCSS | Vue, Tailwind |
 | [Docker Base](https://github.com/alopez1981/docker) | Entorno Docker Laravel+MySQL+Nginx | Docker, PHP-FPM |
+| 
+| [Currencies Frontend](https://github.com/alopez1981/currencies-frontend) | Frontend currencies project with Vue 3 | Vue |
 
 ---
 
