@@ -1,7 +1,14 @@
 # 👋 Hola, soy Albert Lopez  
-**Backend Developer | Laravel · DDD · CQRS · Docker · AWS**
+**Backend Developer | Laravel · DDD · CQRS · Docker · Vue**
 
-Soy desarrollador PHP en Laravel, con experiencia en arquitecturas limpias, microservicios y automatización de despliegues en Kubernetes. Me apasiona construir sistemas robustos y sostenibles.
+Backend developer en Hoy-Voy, donde combino desarrollo, seguridad y soporte técnico.
+-Trabajo con Laravel (DDD, CQRS, arquitectura hexágonal) y VUE 3.
+-Gestiono Google Workspace, roles y usuarios.
+-Desarrollo consultas SQL y soluciones internas.
+-Responsable de las políticas de seguridad informática y detección de fugas.
+-Administro dominios y DNS.
+Titulado en Administración de Sistemas Informáticos en Red (especializado en ciberseguridad).
+Me he formado en metodologías limpias en Codely y de forma autodidacta, como puede verse en mis proyectos de GitHub.
 
 ---
 
@@ -10,8 +17,6 @@ Soy desarrollador PHP en Laravel, con experiencia en arquitecturas limpias, micr
 ![Vue](https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 ---
 
