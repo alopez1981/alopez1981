@@ -13,7 +13,7 @@ Backend developer en Hoy-Voy, donde combino desarrollo, seguridad y soporte téc
 - Responsable de las políticas de seguridad informática y detección de fugas.
 - Administro dominios y DNS.
   
-Titulado en Administración de Sistemas Informáticos en Red (especializado en ciberseguridad).
+Administrador de Sistemas Informáticos en Red (especializado en ciberseguridad).
 Me he formado en metodologías limpias en Codely y de forma autodidacta, como puede verse en mis proyectos de GitHub.
 
 ---
