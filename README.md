@@ -1,59 +1,62 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&center=true&vCenter=true&width=800&lines=Backend+Laravel+%7C+DDD+%7C+CQRS+%7C+Hexagonal;Vue+3+Learner;Seguridad+Inform%C3%A1tica+y+Automatizaci%C3%B3n" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&center=true&vCenter=true&width=800&lines=Backend+Developer+%26+Ops+Strategist;PHP+%7C+Laravel+%7C+DDD+%7C+CQRS;SecOps+%7C+Business+Intelligence+%7C+Architecture" />
 </p>
 
-# 👋 Hola, soy Albert Lopez  
-**Backend Developer | Laravel · DDD · CQRS · Docker · Vue**
+# 👋 Hola, soy Albert Lopez
+**Bridging the gap between Business Logic & Software Architecture**
 
-Backend developer en Hoy-Voy, donde combino desarrollo, seguridad y soporte técnico.
+No soy el típico desarrollador. Vengo de **10 años dirigiendo operaciones y negocios**, por lo que escribo código que no solo compila, sino que **resuelve problemas reales de rentabilidad y escalabilidad**.
 
-- Trabajo con Laravel (DDD, CQRS, arquitectura hexágonal) y VUE 3.
-- Gestiono Google Workspace, roles y usuarios.
-- Desarrollo consultas SQL y soluciones internas.
-- Responsable de las políticas de seguridad informática y detección de fugas.
-- Administro dominios y DNS.
-  
-Administrador de Sistemas Informáticos en Red (especializado en ciberseguridad).
-Me he formado en metodologías limpias en Codely y de forma autodidacta, como puede verse en mis proyectos de GitHub.
+Actualmente en **Hoy-Voy**, donde he liderado la transición hacia arquitecturas desacopladas y asegurado la infraestructura crítica.
+
+### 🛠️ Lo que aporto a un equipo
+- **Arquitectura Robusta:** Especialista en **Laravel** con enfoques complejos (**DDD, CQRS, Hexagonal**) para dominios ricos en lógica de negocio.
+- **Mentalidad DevSecOps:** Diseño sistemas seguros por defecto (Zero Trust, Hardening de Google Workspace, Políticas de Seguridad).
+- **Visión de Producto:** Traduzco necesidades operativas (KPIs, LTV, Procesos) a código eficiente y bases de datos optimizadas.
+- **Infraestructura:** Gestión de Docker, Cloudflare y automatización de sistemas.
 
 ---
 
-### 🚀 Stack actual
+### 🚀 Stack Tecnológico
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-DDD%20%7C%20CQRS%20%7C%20Hex-FF2D20" />
-  <img src="https://img.shields.io/badge/Vue-3-41B883" />
-  <img src="https://img.shields.io/badge/Google%20Workspace-Admin-4285F4" />
-  <img src="https://img.shields.io/badge/Security-Policies%20%26%20Incident%20Response-111111" />
+  <img src="https://img.shields.io/badge/Architecture-DDD%20%7C%20CQRS%20%7C%20Hexagonal-FF2D20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-PHP%208.2%20%7C%20Laravel-777BB4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SecOps-Identity%20%26%20Access%20Mgmt-111111?style=for-the-badge" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,mysql,docker,cloudflare,git,github" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,linux,cloudflare,git,vue,postman" />
 </p>
 
+---
+
+### 🧩 Portfolio de Ingeniería & Negocio
+| Proyecto | Tipo | Impacto / Tecnología |
+|-----------|------|--------|
+| [**Strategic Data & SQL**](https://github.com/alopez1981/strategic-data-portfolio) | 📊 **Business Intelligence** | Casos de estudio reales: Detección de fraude (Forensics), Cálculo de LTV y KPIs financieros complejos con SQL avanzado (Window Functions). |
+| [**Enterprise API Core**](https://github.com/alopez1981/currencies-ddd-cqrs) | 🏗️ **Arquitectura** | API RESTful completa usando **DDD, CQRS y Event-Sourcing**. Desacoplamiento total de servicios externos y lógica de dominio pura. |
+| [**Security Playbooks**](https://github.com/alopez1981/security-policies) | 🛡️ **SecOps** | *[En construcción]* Scripts de auditoría y políticas de hardening para entornos corporativos (Google Workspace, Jumpcloud). |
+| [**Vue 3 Frontend**](https://github.com/alopez1981/currencies-frontend) | 🎨 **Frontend** | Consumo de API microservicios con Vue 3 y Tailwind. |
 
 ---
 
-### 🧩 Proyectos destacados
-| Proyecto | Descripción | Stack |
-|-----------|--------------|--------|
-| [API Currencies](https://github.com/alopez1981/currencies-ddd-cqrs) | API con DDD, CQRS y eventos en Laravel | Laravel, MySQL |
-| [Portafolio Vue](https://github.com/alopez1981/my-portfolio) | Sitio personal con Vue 3 + TailwindCSS | Vue, Tailwind |
-| [Docker Base](https://github.com/alopez1981/docker) | Entorno Docker Laravel+MySQL+Nginx | Docker, PHP-FPM |
-| [Currencies Frontend](https://github.com/alopez1981/currencies-frontend) | Frontend currencies project with Vue 3 | Vue |
+### 🧠 Aprendizaje Continuo & Filosofía
+> *"El código es la herramienta, el negocio es el objetivo."*
+
+- **Profundizando en:** Event-Driven Architectures (RabbitMQ/Kafka) & Kubernetes.
+- **Formación:** CodelyTV Alumni (Principios SOLID, Testing), Autodidacta, ASIR (Ciberseguridad).
 
 ---
 
-### 🧠 Actualmente aprendiendo
-- Vue 3  
-- Event-driven development   
----
-
-📫 **Contáctame:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Albert_Lopez-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/alopez1981)  
-[![Email](https://img.shields.io/badge/albertlopezsimon@gmail.com-grey?style=flat-square&logo=gmail)](mailto:albertlopezsimon@gmail.com)
+📫 **Conectemos:**
+<p align="center">
+  <a href="https://linkedin.com/in/alopez1981">
+    <img src="https://img.shields.io/badge/LinkedIn-Albert_Lopez-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:albertlopezsimon@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar-grey?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alopez1981&show_icons=true&hide_title=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alopez1981&theme=github-dark-blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alopez1981&show_icons=true&hide_title=true&theme=github_dark&bg_color=0d1117&hide_border=true" />
 </p>
-
-
