@@ -9,7 +9,7 @@ No soy el típico desarrollador. Vengo de **10 años dirigiendo operaciones y ne
 
 Actualmente en **Hoy-Voy**, donde he liderado la transición hacia arquitecturas desacopladas y asegurado la infraestructura crítica.
 
-### 🛠️ Lo que aporto a un equipo
+###  Lo que aporto a un equipo
 - **Arquitectura Robusta:** Especialista en **Laravel** con enfoques complejos (**DDD, CQRS, Hexagonal**) para dominios ricos en lógica de negocio.
 - **Mentalidad DevSecOps:** Diseño sistemas seguros por defecto (Zero Trust, Hardening de Google Workspace, Políticas de Seguridad).
 - **Visión de Producto:** Traduzco necesidades operativas (KPIs, LTV, Procesos) a código eficiente y bases de datos optimizadas.
@@ -17,7 +17,7 @@ Actualmente en **Hoy-Voy**, donde he liderado la transición hacia arquitecturas
 
 ---
 
-### 🚀 Stack Tecnológico
+###  Stack Tecnológico
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-DDD%20%7C%20CQRS%20%7C%20Hexagonal-FF2D20?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-PHP%208.2%20%7C%20Laravel-777BB4?style=for-the-badge" />
@@ -29,7 +29,7 @@ Actualmente en **Hoy-Voy**, donde he liderado la transición hacia arquitecturas
 
 ---
 
-### 🧩 Portfolio de Ingeniería & Negocio
+###  Portfolio de Ingeniería & Negocio
 | Proyecto | Tipo | Impacto / Tecnología |
 |-----------|------|--------|
 | [**Strategic Data & SQL**](https://github.com/alopez1981/strategic-data-portfolio) | 📊 **Business Intelligence** | Casos de estudio reales: Detección de fraude (Forensics), Cálculo de LTV y KPIs financieros complejos con SQL avanzado (Window Functions). |
@@ -39,7 +39,7 @@ Actualmente en **Hoy-Voy**, donde he liderado la transición hacia arquitecturas
 
 ---
 
-### 🧠 Aprendizaje Continuo & Filosofía
+###  Aprendizaje Continuo & Filosofía
 > *"El código es la herramienta, el negocio es el objetivo."*
 
 - **Profundizando en:** Event-Driven Architectures (RabbitMQ/Kafka) & Kubernetes.
