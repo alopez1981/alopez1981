@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&center=true&vCenter=true&width=800&lines=Backend+Developer+%26+Ops+Strategist;PHP+%7C+Laravel+%7C+DDD+%7C+CQRS;SecOps+%7C+Business+Intelligence+%7C+Architecture" />
 </p>
 
-# 👋 Hola, soy Albert Lopez
+#  Hola, soy Albert Lopez
 **Bridging the gap between Business Logic & Software Architecture**
 
 No soy el típico desarrollador. Vengo de **10 años dirigiendo operaciones y negocios**, por lo que escribo código que no solo compila, sino que **resuelve problemas reales de rentabilidad y escalabilidad**.
@@ -10,7 +10,7 @@ No soy el típico desarrollador. Vengo de **10 años dirigiendo operaciones y ne
 Actualmente en **Hoy-Voy**, donde he liderado la transición hacia arquitecturas desacopladas y asegurado la infraestructura crítica.
 
 ###  Lo que aporto a un equipo
-- **Arquitectura Robusta:** Especialista en **Laravel** con enfoques complejos (**DDD, CQRS, Hexagonal**) para dominios ricos en lógica de negocio.
+- **Arquitectura Robusta:** Especialista en **Laravel** con enfoques complejos (**DDD, CQRS, Arquitectura Hexagonal**) para dominios ricos en lógica de negocio.
 - **Mentalidad DevSecOps:** Diseño sistemas seguros por defecto (Zero Trust, Hardening de Google Workspace, Políticas de Seguridad).
 - **Visión de Producto:** Traduzco necesidades operativas (KPIs, LTV, Procesos) a código eficiente y bases de datos optimizadas.
 - **Infraestructura:** Gestión de Docker, Cloudflare y automatización de sistemas.
@@ -49,7 +49,7 @@ Actualmente en **Hoy-Voy**, donde he liderado la transición hacia arquitecturas
 
 ---
 
-📫 **Conectemos:**
+ **Conectemos:**
 <p align="center">
   <a href="https://linkedin.com/in/alopez1981">
     <img src="https://img.shields.io/badge/LinkedIn-Albert_Lopez-blue?style=for-the-badge&logo=linkedin" />
