@@ -47,9 +47,11 @@ Actualmente en **Hoy-Voy**, donde he liderado la transición hacia arquitecturas
 
 ---
 
+---
+
 📫 **Conectemos:**
 <p align="center">
-  <a href="https://www.linkedin.com/feed/">
+  <a href="https://linkedin.com/in/alopez1981">
     <img src="https://img.shields.io/badge/LinkedIn-Albert_Lopez-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:albertlopezsimon@gmail.com">
@@ -58,5 +60,8 @@ Actualmente en **Hoy-Voy**, donde he liderado la transición hacia arquitecturas
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alopez1981&show_icons=true&hide_title=true&theme=github_dark&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alopez1981&show_icons=true&hide_title=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alopez1981&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
