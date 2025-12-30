@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&center=true&vCenter=true&width=800&lines=Backend+Developer+%26+Ops+Strategist;PHP+%7C+Laravel+%7C+DDD+%7C+CQRS;SecOps+%7C+Business+Intelligence+%7C+Architecture" />
 </p>
 
-#  Hola, soy Albert Lopez
-### Bridging the gap between Business Logic & Software Architecture
+# Hola, soy Albert Lopez
+###  Bridging the gap between Business Logic & Software Architecture
 
 No soy el típico desarrollador. Vengo de **10 años dirigiendo operaciones y negocios**, por lo que escribo código que no solo compila, sino que **resuelve problemas reales de rentabilidad y escalabilidad**.
 
