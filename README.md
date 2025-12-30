@@ -61,8 +61,8 @@ Actualmente en **Hoy-Voy**, donde he liderado la transición hacia arquitecturas
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=alopez1981&show_icons=true&hide_title=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alopez1981&show_icons=true&hide_title=true&theme=github_dark" height="180" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alopez1981&theme=github-dark-blue" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alopez1981&theme=github-dark-blue"  height="180"/>
 
 </p>
