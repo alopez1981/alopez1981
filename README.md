@@ -3,7 +3,7 @@
 </p>
 
 #  Hola, soy Albert Lopez
-### Bridging the gap between Business Logic & Software Architecture
+### Bridging the gap between Business Logic & Software Architecture
 
 No soy el típico desarrollador. Vengo de **10 años dirigiendo operaciones y negocios**, por lo que escribo código que no solo compila, sino que **resuelve problemas reales de rentabilidad y escalabilidad**.
 
