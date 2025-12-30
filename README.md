@@ -32,7 +32,7 @@ Actualmente en **Hoy-Voy**, donde he liderado la transición hacia arquitecturas
 ###  Portfolio de Ingeniería & Negocio
 | Proyecto | Tipo | Impacto / Tecnología |
 |-----------|------|--------|
-| [**Strategic Data & SQL**](https://github.com/alopez1981/strategic-data-portfolio) | 📊 **Business Intelligence** | Casos de estudio reales: Detección de fraude (Forensics), Cálculo de LTV y KPIs financieros complejos con SQL avanzado (Window Functions). |
+| [**Strategic Data & SQL**](https://github.com/alopez1981/strategic-data-portfolio) | 📊 **Business Intelligence** | **SaaS Revenue Intelligence**. Análisis financiero avanzado (MRR, Growth), segmentación de clientes VIP (LTV) y prevención de fraude (Forensics) usando SQL Analítico. |
 | [**Enterprise API Core**](https://github.com/alopez1981/currencies-ddd-cqrs) | 🏗️ **Arquitectura** | API RESTful completa usando **DDD, CQRS y Event-Sourcing**. Desacoplamiento total de servicios externos y lógica de dominio pura. |
 | [**SME Security Governance**](https://github.com/alopez1981/sme-security-governance-framework) | 🛡️ **SecOps & GRC** | Framework de seguridad integral para Pymes (ISO-27001 Lite). Incluye Políticas, Plan de Respuesta a Incidentes (IRP) y cumplimiento RGPD. |
 | [**Vue 3 Frontend**](https://github.com/alopez1981/currencies-frontend) | 🎨 **Frontend** | Consumo de API microservicios con Vue 3 y Tailwind. |
