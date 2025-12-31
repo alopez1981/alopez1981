@@ -27,15 +27,14 @@
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Stack Tecnológico & Estrategia
 
 <p align="center">
   <img src="https://img.shields.io/badge/Architecture-DDD%20%7C%20CQRS%20%7C%20Hexagonal-FF2D20?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-PHP%208.2%20%7C%20Laravel-777BB4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SecOps-Identity%20%26%20Access%20Mgmt-111111?style=for-the-badge" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,docker,linux,cloudflare,git,vue,postman" />
+  <br>
+  <img src="https://img.shields.io/badge/Infra-Docker%20%7C%20Cloudflare%20%7C%20Linux-2496ED?style=for-the-badge" />
 </p>
 
 ---
@@ -72,5 +71,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alopez1981&show_icons=true&hide_title=true&theme=github_dark&hide_border=true" height="170" alt="github stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alopez1981&theme=github-dark-blue&hide_border=true" height="170" alt="streak stats"/>
 </p>
